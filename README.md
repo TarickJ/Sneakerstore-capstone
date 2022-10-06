@@ -19,7 +19,7 @@
 * Clone this repository
 * run using vscode with live server
 
-##Directories
+## Directories
 * The main directory contains the html files
 * The src directory contains the javascript and css files
 * The images directory contains all the images used for the website
